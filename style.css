@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+  }
+  td {
+    border: 2px solid;
+  }
+  /* padding para alinar o th e o td para os lados e text-align para saber para qual lado o th e td vai mudar  */
+  th, td {
+    padding: 25px;
+    text-align: left;
+  }
+  /* Mudar as cores das linhas pares (tr) */
+  tr:nth-child(even) {
+    background-color: #ADD8E6
+  }
+  
+  /* usado para colorir o th que seria o fundo da celula de cabeçalho e color para mudar a cor da letra */
+  th {
+    background-color: #1e81b0;
+    color: white;
+  }
+  /* font-family para alterar a fonte do th e td */
+  th {
+    font-family: Marker Felt, fantasy
+  }
+  th{
+    width: 100px;
+  }
+  td {
+    font-family: Comic Sans MS, Comic Sans, cursive
+  }
+  
+  
+  
