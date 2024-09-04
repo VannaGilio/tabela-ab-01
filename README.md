@@ -2,7 +2,7 @@
 ![](./screenshot/preview.png)
 
 ## Sobre
-Site do tipo landing Page para exibir empresas e o que elas fazem. O intuito desse projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação, HTML, CSS e Markdown, realizadas no curso técnico de desenvolvimento de sistemas [SENAI JANDIRA](https://sp.senai.br/unidade/jandira/) 
+Site do tipo landing Page para exibir grandes empresas e as especialidades da mesma. O intuito desse projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação, HTML, CSS e Markdown, realizadas no curso técnico de desenvolvimento de sistemas [SENAI JANDIRA](https://sp.senai.br/unidade/jandira/) 
 ___
 
 ## Tecnológias utlizadas
